@@ -29,7 +29,7 @@ A powerful and interactive tool to visualize the process of sorting algorithms, 
 3. **Clone the repository**:
    - Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/BhojrajCSE21/AlgoSort-Visualizer.git
    cd AlgoSort-Visualizer
    ```
 
