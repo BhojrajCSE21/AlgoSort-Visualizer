@@ -1,13 +1,16 @@
+Here's the corrected version of your `README.md` file:
+
+---
+
 # AlgoSort Visualizer
 A powerful and interactive tool to visualize the process of sorting algorithms, including **Merge Sort**, **Heap Sort**, **Insertion Sort**, **Bubble Sort**, and **Quick Sort**. See how these algorithms work with dynamic animations.
-
 
 ## Features
 - **Real-time visualization** of sorting algorithms.
 - Includes multiple algorithms: **Bubble Sort**, **Heap Sort**, **Insertion Sort**, **Merge Sort**, and **Quick Sort**.
 - View time and space complexities for each algorithm.
 - Count the number of comparisons made during sorting.
-  
+
 ## Installation
 
 ### Windows
@@ -48,14 +51,17 @@ A powerful and interactive tool to visualize the process of sorting algorithms, 
 
 6. **Enjoy the visualizer**:
    - The GUI window will open, and you can select sorting algorithms and visualize them in action.
-  
 
-## Visulation Output:
+## Visualization Output
 
-Screenshot 2024-11-07 120125.png
+Here’s a preview of how the visualizer looks:
 
-Screenshot 2024-11-07 120203.png
+![Visualizer Screenshot](AlgoSort-Visualizer/Screenshot%202024-11-07%20120203.png)
 
 ## Contributions
 
 Feel free to fork the project and create pull requests. Contributions are welcome to improve the features and algorithms available for visualization.
+
+---
+
+Let me know if you need further adjustments!
