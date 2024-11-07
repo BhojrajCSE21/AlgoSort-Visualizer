@@ -48,6 +48,13 @@ A powerful and interactive tool to visualize the process of sorting algorithms, 
 
 6. **Enjoy the visualizer**:
    - The GUI window will open, and you can select sorting algorithms and visualize them in action.
+  
+
+## Visulation Output:
+
+Screenshot 2024-11-07 120125.png
+
+Screenshot 2024-11-07 120203.png
 
 ## Contributions
 
