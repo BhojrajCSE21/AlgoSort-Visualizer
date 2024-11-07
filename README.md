@@ -56,7 +56,8 @@ A powerful and interactive tool to visualize the process of sorting algorithms, 
 
 Here’s a preview of how the visualizer looks:
 
-![Visualizer Screenshot](AlgoSort-Visualizer/Screenshot%202024-11-07%20120203.png)
+![Visualizer Screenshot](output.png)
+![Visualizer Screenshot](output1.png)
 
 ## Contributions
 
